@@ -1,0 +1,536 @@
+file_name,path,speaker,sentence code,sentence german,sentence,emotion code,emotion,recording version,Duration (seconds),Average Frequency (Hz),Sampling Rate (Hz)
+03a01Fa.wav,Data/EmoDB/wav/03a01Fa.wav,03,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,a,1.89825,4000.0,16000
+03a01Nc.wav,Data/EmoDB/wav/03a01Nc.wav,03,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,c,1.61125,4000.0,16000
+03a01Wa.wav,Data/EmoDB/wav/03a01Wa.wav,03,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,a,1.8778125,4000.0,16000
+03a02Fc.wav,Data/EmoDB/wav/03a02Fc.wav,03,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,c,2.00625,4000.0,16000
+03a02Nc.wav,Data/EmoDB/wav/03a02Nc.wav,03,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,c,1.4398125,4000.0,16000
+03a02Ta.wav,Data/EmoDB/wav/03a02Ta.wav,03,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,a,1.7356875,4000.0,16000
+03a02Wb.wav,Data/EmoDB/wav/03a02Wb.wav,03,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,b,2.123625,4000.0,16000
+03a02Wc.wav,Data/EmoDB/wav/03a02Wc.wav,03,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,c,1.4980625,4000.0,16000
+03a04Ad.wav,Data/EmoDB/wav/03a04Ad.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,d,1.504875,4000.0,16000
+03a04Fd.wav,Data/EmoDB/wav/03a04Fd.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,d,1.6968125,4000.0,16000
+03a04Lc.wav,Data/EmoDB/wav/03a04Lc.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,c,1.931,4000.0,16000
+03a04Nc.wav,Data/EmoDB/wav/03a04Nc.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,c,1.5613125,4000.0,16000
+03a04Ta.wav,Data/EmoDB/wav/03a04Ta.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,a,2.0635625,4000.0,16000
+03a04Wc.wav,Data/EmoDB/wav/03a04Wc.wav,03,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,2.044125,4000.0,16000
+03a05Aa.wav,Data/EmoDB/wav/03a05Aa.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,a,3.087625,4000.0,16000
+03a05Fc.wav,Data/EmoDB/wav/03a05Fc.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,c,3.1961875,4000.0,16000
+03a05Nd.wav,Data/EmoDB/wav/03a05Nd.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,d,3.168,4000.0,16000
+03a05Tc.wav,Data/EmoDB/wav/03a05Tc.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,c,3.4978125,4000.0,16000
+03a05Wa.wav,Data/EmoDB/wav/03a05Wa.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,a,3.44075,4000.0,16000
+03a05Wb.wav,Data/EmoDB/wav/03a05Wb.wav,03,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,2.96225,4000.0,16000
+03a07Fa.wav,Data/EmoDB/wav/03a07Fa.wav,03,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,a,2.1338125,4000.0,16000
+03a07Fb.wav,Data/EmoDB/wav/03a07Fb.wav,03,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,b,2.449875,4000.0,16000
+03a07La.wav,Data/EmoDB/wav/03a07La.wav,03,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,a,2.4015625,4000.0,16000
+03a07Nc.wav,Data/EmoDB/wav/03a07Nc.wav,03,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,c,1.788125,4000.0,16000
+03a07Wc.wav,Data/EmoDB/wav/03a07Wc.wav,03,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,c,2.0875625,4000.0,16000
+03b01Fa.wav,Data/EmoDB/wav/03b01Fa.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,a,2.3621875,4000.0,16000
+03b01Lb.wav,Data/EmoDB/wav/03b01Lb.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,b,2.8789375,4000.0,16000
+03b01Nb.wav,Data/EmoDB/wav/03b01Nb.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,b,2.3891875,4000.0,16000
+03b01Td.wav,Data/EmoDB/wav/03b01Td.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,T,Sadness,d,3.3906875,4000.0,16000
+03b01Wa.wav,Data/EmoDB/wav/03b01Wa.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,a,2.1798125,4000.0,16000
+03b01Wc.wav,Data/EmoDB/wav/03b01Wc.wav,03,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,c,2.92925,4000.0,16000
+03b02Aa.wav,Data/EmoDB/wav/03b02Aa.wav,03,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,a,3.0848125,4000.0,16000
+03b02La.wav,Data/EmoDB/wav/03b02La.wav,03,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,a,3.4648125,4000.0,16000
+03b02Na.wav,Data/EmoDB/wav/03b02Na.wav,03,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.9453125,4000.0,16000
+03b02Tb.wav,Data/EmoDB/wav/03b02Tb.wav,03,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,b,5.126875,4000.0,16000
+03b02Wb.wav,Data/EmoDB/wav/03b02Wb.wav,03,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,3.1840625,4000.0,16000
+03b03Nb.wav,Data/EmoDB/wav/03b03Nb.wav,03,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.6445,4000.0,16000
+03b03Tc.wav,Data/EmoDB/wav/03b03Tc.wav,03,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,c,5.2993125,4000.0,16000
+03b03Wc.wav,Data/EmoDB/wav/03b03Wc.wav,03,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,c,3.8474375,4000.0,16000
+03b09La.wav,Data/EmoDB/wav/03b09La.wav,03,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,a,3.1126875,4000.0,16000
+03b09Nc.wav,Data/EmoDB/wav/03b09Nc.wav,03,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,c,2.5885625,4000.0,16000
+03b09Tc.wav,Data/EmoDB/wav/03b09Tc.wav,03,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,c,3.947125,4000.0,16000
+03b09Wa.wav,Data/EmoDB/wav/03b09Wa.wav,03,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,2.89375,4000.0,16000
+03b10Ab.wav,Data/EmoDB/wav/03b10Ab.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,b,2.82825,4000.0,16000
+03b10Ec.wav,Data/EmoDB/wav/03b10Ec.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,E,Disgust,c,3.202,4000.0,16000
+03b10Na.wav,Data/EmoDB/wav/03b10Na.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,a,2.2564375,4000.0,16000
+03b10Nc.wav,Data/EmoDB/wav/03b10Nc.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,c,2.2176875,4000.0,16000
+03b10Wb.wav,Data/EmoDB/wav/03b10Wb.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,b,2.1664375,4000.0,16000
+03b10Wc.wav,Data/EmoDB/wav/03b10Wc.wav,03,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,c,2.442,4000.0,16000
+08a01Ab.wav,Data/EmoDB/wav/08a01Ab.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,b,1.8540625,4000.0,16000
+08a01Fd.wav,Data/EmoDB/wav/08a01Fd.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,d,2.29975,4000.0,16000
+08a01Lc.wav,Data/EmoDB/wav/08a01Lc.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,c,2.0170625,4000.0,16000
+08a01Na.wav,Data/EmoDB/wav/08a01Na.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,a,1.7645,4000.0,16000
+08a01Wa.wav,Data/EmoDB/wav/08a01Wa.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,a,1.6128125,4000.0,16000
+08a01Wc.wav,Data/EmoDB/wav/08a01Wc.wav,08,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,c,1.691,4000.0,16000
+08a02Ab.wav,Data/EmoDB/wav/08a02Ab.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,b,1.584,4000.0,16000
+08a02Ac.wav,Data/EmoDB/wav/08a02Ac.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,c,1.6863125,4000.0,16000
+08a02Fe.wav,Data/EmoDB/wav/08a02Fe.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,e,1.6195,4000.0,16000
+08a02La.wav,Data/EmoDB/wav/08a02La.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,a,1.73375,4000.0,16000
+08a02Na.wav,Data/EmoDB/wav/08a02Na.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,a,1.790625,4000.0,16000
+08a02Tb.wav,Data/EmoDB/wav/08a02Tb.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,b,3.0465625,4000.0,16000
+08a02Wc.wav,Data/EmoDB/wav/08a02Wc.wav,08,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,c,1.8671875,4000.0,16000
+08a04Ff.wav,Data/EmoDB/wav/08a04Ff.wav,08,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,f,1.800625,4000.0,16000
+08a04La.wav,Data/EmoDB/wav/08a04La.wav,08,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,a,2.085875,4000.0,16000
+08a04Nc.wav,Data/EmoDB/wav/08a04Nc.wav,08,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,c,2.03325,4000.0,16000
+08a04Tb.wav,Data/EmoDB/wav/08a04Tb.wav,08,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,b,3.8371875,4000.0,16000
+08a04Wc.wav,Data/EmoDB/wav/08a04Wc.wav,08,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,1.8049375,4000.0,16000
+08a05Fe.wav,Data/EmoDB/wav/08a05Fe.wav,08,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,e,3.0986875,4000.0,16000
+08a05Lc.wav,Data/EmoDB/wav/08a05Lc.wav,08,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,c,4.188375,4000.0,16000
+08a05Nb.wav,Data/EmoDB/wav/08a05Nb.wav,08,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,b,3.2528125,4000.0,16000
+08a05Ta.wav,Data/EmoDB/wav/08a05Ta.wav,08,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,a,5.6214375,4000.0,16000
+08a05Wa.wav,Data/EmoDB/wav/08a05Wa.wav,08,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,a,2.9291875,4000.0,16000
+08a07Fd.wav,Data/EmoDB/wav/08a07Fd.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,d,1.9630625,4000.0,16000
+08a07La.wav,Data/EmoDB/wav/08a07La.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,a,2.5238125,4000.0,16000
+08a07Na.wav,Data/EmoDB/wav/08a07Na.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,a,2.0839375,4000.0,16000
+08a07Ta.wav,Data/EmoDB/wav/08a07Ta.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,a,3.46275,4000.0,16000
+08a07Tb.wav,Data/EmoDB/wav/08a07Tb.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,b,4.0235625,4000.0,16000
+08a07Wc.wav,Data/EmoDB/wav/08a07Wc.wav,08,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,c,2.2193125,4000.0,16000
+08b01Aa.wav,Data/EmoDB/wav/08b01Aa.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,a,2.676875,4000.0,16000
+08b01Fd.wav,Data/EmoDB/wav/08b01Fd.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,d,2.4819375,4000.0,16000
+08b01Fe.wav,Data/EmoDB/wav/08b01Fe.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,e,2.51575,4000.0,16000
+08b01Lb.wav,Data/EmoDB/wav/08b01Lb.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,b,3.487375,4000.0,16000
+08b01Na.wav,Data/EmoDB/wav/08b01Na.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,a,2.354,4000.0,16000
+08b01Wa.wav,Data/EmoDB/wav/08b01Wa.wav,08,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,a,3.3085,4000.0,16000
+08b02Ff.wav,Data/EmoDB/wav/08b02Ff.wav,08,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,f,2.771125,4000.0,16000
+08b02La.wav,Data/EmoDB/wav/08b02La.wav,08,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,a,3.45775,4000.0,16000
+08b02Nb.wav,Data/EmoDB/wav/08b02Nb.wav,08,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,b,3.0555,4000.0,16000
+08b02Tc.wav,Data/EmoDB/wav/08b02Tc.wav,08,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,c,7.6794375,4000.0,16000
+08b02Wd.wav,Data/EmoDB/wav/08b02Wd.wav,08,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,d,3.584,4000.0,16000
+08b03Fe.wav,Data/EmoDB/wav/08b03Fe.wav,08,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,e,3.6160625,4000.0,16000
+08b03Lc.wav,Data/EmoDB/wav/08b03Lc.wav,08,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,c,4.5258125,4000.0,16000
+08b03Nb.wav,Data/EmoDB/wav/08b03Nb.wav,08,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.7216875,4000.0,16000
+08b03Tc.wav,Data/EmoDB/wav/08b03Tc.wav,08,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,c,8.97825,4000.0,16000
+08b03Wd.wav,Data/EmoDB/wav/08b03Wd.wav,08,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,d,4.08125,4000.0,16000
+08b09Ab.wav,Data/EmoDB/wav/08b09Ab.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,b,3.18125,4000.0,16000
+08b09Fd.wav,Data/EmoDB/wav/08b09Fd.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,d,2.7668125,4000.0,16000
+08b09Lc.wav,Data/EmoDB/wav/08b09Lc.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,c,3.8906875,4000.0,16000
+08b09Nb.wav,Data/EmoDB/wav/08b09Nb.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,b,2.85375,4000.0,16000
+08b09Tb.wav,Data/EmoDB/wav/08b09Tb.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,b,6.7514375,4000.0,16000
+08b09Wa.wav,Data/EmoDB/wav/08b09Wa.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,3.1655625,4000.0,16000
+08b09Wc.wav,Data/EmoDB/wav/08b09Wc.wav,08,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,c,3.3114375,4000.0,16000
+08b10Aa.wav,Data/EmoDB/wav/08b10Aa.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,a,2.6551875,4000.0,16000
+08b10Fd.wav,Data/EmoDB/wav/08b10Fd.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,F,Happiness,d,2.4635625,4000.0,16000
+08b10La.wav,Data/EmoDB/wav/08b10La.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,a,2.79675,4000.0,16000
+08b10Nc.wav,Data/EmoDB/wav/08b10Nc.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,c,2.3780625,4000.0,16000
+08b10Tc.wav,Data/EmoDB/wav/08b10Tc.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,T,Sadness,c,4.6628125,4000.0,16000
+08b10Wa.wav,Data/EmoDB/wav/08b10Wa.wav,08,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,3.135375,4000.0,16000
+09a01Ea.wav,Data/EmoDB/wav/09a01Ea.wav,09,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,a,2.62125,4000.0,16000
+09a01Fa.wav,Data/EmoDB/wav/09a01Fa.wav,09,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,a,1.831125,4000.0,16000
+09a01Nb.wav,Data/EmoDB/wav/09a01Nb.wav,09,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,b,1.6825625,4000.0,16000
+09a01Wb.wav,Data/EmoDB/wav/09a01Wb.wav,09,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,b,1.7015,4000.0,16000
+09a02Ea.wav,Data/EmoDB/wav/09a02Ea.wav,09,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,a,2.4346875,4000.0,16000
+09a02Eb.wav,Data/EmoDB/wav/09a02Eb.wav,09,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,b,1.5238125,4000.0,16000
+09a02La.wav,Data/EmoDB/wav/09a02La.wav,09,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,a,1.5200625,4000.0,16000
+09a02Wb.wav,Data/EmoDB/wav/09a02Wb.wav,09,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,b,1.6553125,4000.0,16000
+09a04Fd.wav,Data/EmoDB/wav/09a04Fd.wav,09,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,d,1.481375,4000.0,16000
+09a04La.wav,Data/EmoDB/wav/09a04La.wav,09,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,a,1.5279375,4000.0,16000
+09a04Nb.wav,Data/EmoDB/wav/09a04Nb.wav,09,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,b,1.7675625,4000.0,16000
+09a04Wa.wav,Data/EmoDB/wav/09a04Wa.wav,09,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,a,1.8368125,4000.0,16000
+09a05Ed.wav,Data/EmoDB/wav/09a05Ed.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,E,Disgust,d,5.1574375,4000.0,16000
+09a05Lc.wav,Data/EmoDB/wav/09a05Lc.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,c,3.367375,4000.0,16000
+09a05Nb.wav,Data/EmoDB/wav/09a05Nb.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,b,3.0775,4000.0,16000
+09a05Tb.wav,Data/EmoDB/wav/09a05Tb.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,b,3.908625,4000.0,16000
+09a05Wb.wav,Data/EmoDB/wav/09a05Wb.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,3.4001875,4000.0,16000
+09a05Wc.wav,Data/EmoDB/wav/09a05Wc.wav,09,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,c,3.184625,4000.0,16000
+09a07Eb.wav,Data/EmoDB/wav/09a07Eb.wav,09,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",E,Disgust,b,3.3458125,4000.0,16000
+09a07Na.wav,Data/EmoDB/wav/09a07Na.wav,09,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,a,1.8359375,4000.0,16000
+09a07Ta.wav,Data/EmoDB/wav/09a07Ta.wav,09,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,a,1.99425,4000.0,16000
+09a07Wb.wav,Data/EmoDB/wav/09a07Wb.wav,09,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,b,1.987625,4000.0,16000
+09a07Wd.wav,Data/EmoDB/wav/09a07Wd.wav,09,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,d,2.3193125,4000.0,16000
+09b01Ea.wav,Data/EmoDB/wav/09b01Ea.wav,09,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,a,3.731625,4000.0,16000
+09b01Na.wav,Data/EmoDB/wav/09b01Na.wav,09,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,a,2.4655625,4000.0,16000
+09b01Wb.wav,Data/EmoDB/wav/09b01Wb.wav,09,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,b,2.1574375,4000.0,16000
+09b02Na.wav,Data/EmoDB/wav/09b02Na.wav,09,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.70025,4000.0,16000
+09b02Tb.wav,Data/EmoDB/wav/09b02Tb.wav,09,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,b,3.6546875,4000.0,16000
+09b02Wc.wav,Data/EmoDB/wav/09b02Wc.wav,09,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,c,2.7245,4000.0,16000
+09b02Wd.wav,Data/EmoDB/wav/09b02Wd.wav,09,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,d,2.6213125,4000.0,16000
+09b03Ed.wav,Data/EmoDB/wav/09b03Ed.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",E,Disgust,d,5.065125,4000.0,16000
+09b03Fa.wav,Data/EmoDB/wav/09b03Fa.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,a,3.1416875,4000.0,16000
+09b03Fd.wav,Data/EmoDB/wav/09b03Fd.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,d,3.3125,4000.0,16000
+09b03Lb.wav,Data/EmoDB/wav/09b03Lb.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,b,3.918,4000.0,16000
+09b03Nb.wav,Data/EmoDB/wav/09b03Nb.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.8190625,4000.0,16000
+09b03Ta.wav,Data/EmoDB/wav/09b03Ta.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,a,4.09325,4000.0,16000
+09b03Wb.wav,Data/EmoDB/wav/09b03Wb.wav,09,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,3.6950625,4000.0,16000
+09b09Ea.wav,Data/EmoDB/wav/09b09Ea.wav,09,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,E,Disgust,a,3.794375,4000.0,16000
+09b09Nd.wav,Data/EmoDB/wav/09b09Nd.wav,09,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,d,2.7140625,4000.0,16000
+09b09Wa.wav,Data/EmoDB/wav/09b09Wa.wav,09,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,2.6223125,4000.0,16000
+09b10Aa.wav,Data/EmoDB/wav/09b10Aa.wav,09,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,a,1.6560625,4000.0,16000
+09b10Nd.wav,Data/EmoDB/wav/09b10Nd.wav,09,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,d,2.2355,4000.0,16000
+09b10Wa.wav,Data/EmoDB/wav/09b10Wa.wav,09,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.206625,4000.0,16000
+10a01Ac.wav,Data/EmoDB/wav/10a01Ac.wav,10,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,c,1.6795,4000.0,16000
+10a01Nb.wav,Data/EmoDB/wav/10a01Nb.wav,10,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,b,1.8071875,4000.0,16000
+10a01Wa.wav,Data/EmoDB/wav/10a01Wa.wav,10,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,a,2.1703125,4000.0,16000
+10a02Ab.wav,Data/EmoDB/wav/10a02Ab.wav,10,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,b,1.6079375,4000.0,16000
+10a02Fa.wav,Data/EmoDB/wav/10a02Fa.wav,10,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,a,1.524,4000.0,16000
+10a02Lb.wav,Data/EmoDB/wav/10a02Lb.wav,10,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,b,1.5925,4000.0,16000
+10a02Na.wav,Data/EmoDB/wav/10a02Na.wav,10,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,a,1.658625,4000.0,16000
+10a02Wa.wav,Data/EmoDB/wav/10a02Wa.wav,10,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,a,2.1026875,4000.0,16000
+10a04Fd.wav,Data/EmoDB/wav/10a04Fd.wav,10,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,d,1.5371875,4000.0,16000
+10a04Nb.wav,Data/EmoDB/wav/10a04Nb.wav,10,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,b,2.0499375,4000.0,16000
+10a04Wa.wav,Data/EmoDB/wav/10a04Wa.wav,10,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,a,2.853375,4000.0,16000
+10a04Wb.wav,Data/EmoDB/wav/10a04Wb.wav,10,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,b,1.811375,4000.0,16000
+10a05Aa.wav,Data/EmoDB/wav/10a05Aa.wav,10,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,a,2.604125,4000.0,16000
+10a05Ld.wav,Data/EmoDB/wav/10a05Ld.wav,10,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,d,3.29575,4000.0,16000
+10a05Tb.wav,Data/EmoDB/wav/10a05Tb.wav,10,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,b,3.3339375,4000.0,16000
+10a05Wb.wav,Data/EmoDB/wav/10a05Wb.wav,10,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,3.7520625,4000.0,16000
+10a07Aa.wav,Data/EmoDB/wav/10a07Aa.wav,10,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,a,1.5960625,4000.0,16000
+10a07Ad.wav,Data/EmoDB/wav/10a07Ad.wav,10,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,d,1.603375,4000.0,16000
+10a07La.wav,Data/EmoDB/wav/10a07La.wav,10,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,a,1.9901875,4000.0,16000
+10a07Ta.wav,Data/EmoDB/wav/10a07Ta.wav,10,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,a,1.9558125,4000.0,16000
+10a07Wb.wav,Data/EmoDB/wav/10a07Wb.wav,10,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,b,1.9734375,4000.0,16000
+10b01Aa.wav,Data/EmoDB/wav/10b01Aa.wav,10,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,a,2.0875625,4000.0,16000
+10b01Ea.wav,Data/EmoDB/wav/10b01Ea.wav,10,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,a,2.390125,4000.0,16000
+10b01Fa.wav,Data/EmoDB/wav/10b01Fa.wav,10,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,a,2.4330625,4000.0,16000
+10b01Lb.wav,Data/EmoDB/wav/10b01Lb.wav,10,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,b,2.0569375,4000.0,16000
+10b02Aa.wav,Data/EmoDB/wav/10b02Aa.wav,10,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,a,2.4623125,4000.0,16000
+10b02La.wav,Data/EmoDB/wav/10b02La.wav,10,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,a,2.6905625,4000.0,16000
+10b02Na.wav,Data/EmoDB/wav/10b02Na.wav,10,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.722,4000.0,16000
+10b02Wb.wav,Data/EmoDB/wav/10b02Wb.wav,10,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,2.8680625,4000.0,16000
+10b03La.wav,Data/EmoDB/wav/10b03La.wav,10,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,a,3.829125,4000.0,16000
+10b03Tb.wav,Data/EmoDB/wav/10b03Tb.wav,10,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,b,3.756375,4000.0,16000
+10b03Wb.wav,Data/EmoDB/wav/10b03Wb.wav,10,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,4.4855,4000.0,16000
+10b09Ad.wav,Data/EmoDB/wav/10b09Ad.wav,10,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,d,1.9768125,4000.0,16000
+10b09Lb.wav,Data/EmoDB/wav/10b09Lb.wav,10,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,b,2.9490625,4000.0,16000
+10b09Wb.wav,Data/EmoDB/wav/10b09Wb.wav,10,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,b,3.2135,4000.0,16000
+10b10Fc.wav,Data/EmoDB/wav/10b10Fc.wav,10,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,F,Happiness,c,2.21175,4000.0,16000
+10b10Lc.wav,Data/EmoDB/wav/10b10Lc.wav,10,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,c,2.2699375,4000.0,16000
+10b10Wa.wav,Data/EmoDB/wav/10b10Wa.wav,10,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.6461875,4000.0,16000
+11a01Aa.wav,Data/EmoDB/wav/11a01Aa.wav,11,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,a,1.5573125,4000.0,16000
+11a01Ab.wav,Data/EmoDB/wav/11a01Ab.wav,11,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,b,1.50425,4000.0,16000
+11a01Ld.wav,Data/EmoDB/wav/11a01Ld.wav,11,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,d,2.0821875,4000.0,16000
+11a01Nd.wav,Data/EmoDB/wav/11a01Nd.wav,11,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,d,1.636375,4000.0,16000
+11a01Wc.wav,Data/EmoDB/wav/11a01Wc.wav,11,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,c,1.91975,4000.0,16000
+11a02Ec.wav,Data/EmoDB/wav/11a02Ec.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,c,1.91,4000.0,16000
+11a02Fb.wav,Data/EmoDB/wav/11a02Fb.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,b,1.7853125,4000.0,16000
+11a02Ld.wav,Data/EmoDB/wav/11a02Ld.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,d,1.6055,4000.0,16000
+11a02Nc.wav,Data/EmoDB/wav/11a02Nc.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,c,1.5340625,4000.0,16000
+11a02Tc.wav,Data/EmoDB/wav/11a02Tc.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,c,2.0645,4000.0,16000
+11a02Wc.wav,Data/EmoDB/wav/11a02Wc.wav,11,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,c,2.4259375,4000.0,16000
+11a04Ac.wav,Data/EmoDB/wav/11a04Ac.wav,11,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,c,1.5355625,4000.0,16000
+11a04Fd.wav,Data/EmoDB/wav/11a04Fd.wav,11,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,d,1.886,4000.0,16000
+11a04Nd.wav,Data/EmoDB/wav/11a04Nd.wav,11,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,d,1.684,4000.0,16000
+11a04Wc.wav,Data/EmoDB/wav/11a04Wc.wav,11,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,2.6789375,4000.0,16000
+11a05Ad.wav,Data/EmoDB/wav/11a05Ad.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,d,2.9164375,4000.0,16000
+11a05Fb.wav,Data/EmoDB/wav/11a05Fb.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,b,3.5435,4000.0,16000
+11a05Fc.wav,Data/EmoDB/wav/11a05Fc.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,c,3.9264375,4000.0,16000
+11a05Lc.wav,Data/EmoDB/wav/11a05Lc.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,c,4.06575,4000.0,16000
+11a05Na.wav,Data/EmoDB/wav/11a05Na.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,a,3.3205,4000.0,16000
+11a05Td.wav,Data/EmoDB/wav/11a05Td.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,d,5.6733125,4000.0,16000
+11a05Wd.wav,Data/EmoDB/wav/11a05Wd.wav,11,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,d,4.03825,4000.0,16000
+11a07Ac.wav,Data/EmoDB/wav/11a07Ac.wav,11,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,c,1.9024375,4000.0,16000
+11a07Ld.wav,Data/EmoDB/wav/11a07Ld.wav,11,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,d,1.7953125,4000.0,16000
+11a07Ta.wav,Data/EmoDB/wav/11a07Ta.wav,11,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,a,2.167375,4000.0,16000
+11a07Wc.wav,Data/EmoDB/wav/11a07Wc.wav,11,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,c,2.238375,4000.0,16000
+11b01Ab.wav,Data/EmoDB/wav/11b01Ab.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,b,2.02425,4000.0,16000
+11b01Eb.wav,Data/EmoDB/wav/11b01Eb.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,b,3.054375,4000.0,16000
+11b01Fc.wav,Data/EmoDB/wav/11b01Fc.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,c,2.5549375,4000.0,16000
+11b01Lb.wav,Data/EmoDB/wav/11b01Lb.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,b,2.79375,4000.0,16000
+11b01Nc.wav,Data/EmoDB/wav/11b01Nc.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,c,2.2201875,4000.0,16000
+11b01Wd.wav,Data/EmoDB/wav/11b01Wd.wav,11,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,d,2.8146875,4000.0,16000
+11b02Ab.wav,Data/EmoDB/wav/11b02Ab.wav,11,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,b,2.489875,4000.0,16000
+11b02Fd.wav,Data/EmoDB/wav/11b02Fd.wav,11,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,d,3.1149375,4000.0,16000
+11b02Na.wav,Data/EmoDB/wav/11b02Na.wav,11,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.6988125,4000.0,16000
+11b02Td.wav,Data/EmoDB/wav/11b02Td.wav,11,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,d,3.60425,4000.0,16000
+11b02Wb.wav,Data/EmoDB/wav/11b02Wb.wav,11,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,3.248625,4000.0,16000
+11b03Fc.wav,Data/EmoDB/wav/11b03Fc.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,c,3.8298125,4000.0,16000
+11b03Lc.wav,Data/EmoDB/wav/11b03Lc.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,c,4.452875,4000.0,16000
+11b03Nb.wav,Data/EmoDB/wav/11b03Nb.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.6209375,4000.0,16000
+11b03Td.wav,Data/EmoDB/wav/11b03Td.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,d,5.905,4000.0,16000
+11b03Wa.wav,Data/EmoDB/wav/11b03Wa.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,a,4.0648125,4000.0,16000
+11b03Wb.wav,Data/EmoDB/wav/11b03Wb.wav,11,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,5.2135,4000.0,16000
+11b09Ad.wav,Data/EmoDB/wav/11b09Ad.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,d,2.7638125,4000.0,16000
+11b09Fd.wav,Data/EmoDB/wav/11b09Fd.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,d,3.0365625,4000.0,16000
+11b09Ld.wav,Data/EmoDB/wav/11b09Ld.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,d,3.377375,4000.0,16000
+11b09Na.wav,Data/EmoDB/wav/11b09Na.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,a,2.41925,4000.0,16000
+11b09Td.wav,Data/EmoDB/wav/11b09Td.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,d,4.8993125,4000.0,16000
+11b09Wa.wav,Data/EmoDB/wav/11b09Wa.wav,11,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,3.81,4000.0,16000
+11b10Ad.wav,Data/EmoDB/wav/11b10Ad.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,d,2.4455625,4000.0,16000
+11b10Ae.wav,Data/EmoDB/wav/11b10Ae.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,e,2.9425625,4000.0,16000
+11b10Ld.wav,Data/EmoDB/wav/11b10Ld.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,d,3.3234375,4000.0,16000
+11b10Nc.wav,Data/EmoDB/wav/11b10Nc.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,c,2.1325625,4000.0,16000
+11b10Td.wav,Data/EmoDB/wav/11b10Td.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,T,Sadness,d,3.8895625,4000.0,16000
+11b10Wa.wav,Data/EmoDB/wav/11b10Wa.wav,11,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.8858125,4000.0,16000
+12a01Fb.wav,Data/EmoDB/wav/12a01Fb.wav,12,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,b,1.863625,4000.0,16000
+12a01Lb.wav,Data/EmoDB/wav/12a01Lb.wav,12,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,b,1.8865625,4000.0,16000
+12a01Nb.wav,Data/EmoDB/wav/12a01Nb.wav,12,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,b,1.7219375,4000.0,16000
+12a01Wc.wav,Data/EmoDB/wav/12a01Wc.wav,12,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,c,2.3588125,4000.0,16000
+12a02Ac.wav,Data/EmoDB/wav/12a02Ac.wav,12,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,c,1.2255,4000.0,16000
+12a02Ec.wav,Data/EmoDB/wav/12a02Ec.wav,12,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,c,3.294625,4000.0,16000
+12a02Nb.wav,Data/EmoDB/wav/12a02Nb.wav,12,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,b,1.7319375,4000.0,16000
+12a02Wa.wav,Data/EmoDB/wav/12a02Wa.wav,12,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,a,1.5074375,4000.0,16000
+12a02Wc.wav,Data/EmoDB/wav/12a02Wc.wav,12,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,c,1.4658125,4000.0,16000
+12a04Wc.wav,Data/EmoDB/wav/12a04Wc.wav,12,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,1.577625,4000.0,16000
+12a05Ab.wav,Data/EmoDB/wav/12a05Ab.wav,12,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,b,3.234125,4000.0,16000
+12a05Lb.wav,Data/EmoDB/wav/12a05Lb.wav,12,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,b,3.8276875,4000.0,16000
+12a05Nd.wav,Data/EmoDB/wav/12a05Nd.wav,12,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,d,3.185875,4000.0,16000
+12a05Ta.wav,Data/EmoDB/wav/12a05Ta.wav,12,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,a,5.36025,4000.0,16000
+12a05Wb.wav,Data/EmoDB/wav/12a05Wb.wav,12,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,3.48525,4000.0,16000
+12a07Ac.wav,Data/EmoDB/wav/12a07Ac.wav,12,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,c,1.48,4000.0,16000
+12a07La.wav,Data/EmoDB/wav/12a07La.wav,12,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,a,2.35125,4000.0,16000
+12a07Wa.wav,Data/EmoDB/wav/12a07Wa.wav,12,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,a,2.33275,4000.0,16000
+12b01Ta.wav,Data/EmoDB/wav/12b01Ta.wav,12,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,T,Sadness,a,3.9954375,4000.0,16000
+12b01Wa.wav,Data/EmoDB/wav/12b01Wa.wav,12,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,a,2.23725,4000.0,16000
+12b02Ad.wav,Data/EmoDB/wav/12b02Ad.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,d,2.2313125,4000.0,16000
+12b02Ea.wav,Data/EmoDB/wav/12b02Ea.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,E,Disgust,a,5.567,4000.0,16000
+12b02Fb.wav,Data/EmoDB/wav/12b02Fb.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,b,3.304,4000.0,16000
+12b02Na.wav,Data/EmoDB/wav/12b02Na.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.9820625,4000.0,16000
+12b02Wa.wav,Data/EmoDB/wav/12b02Wa.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,a,2.78375,4000.0,16000
+12b02Wb.wav,Data/EmoDB/wav/12b02Wb.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,2.804125,4000.0,16000
+12b02Wd.wav,Data/EmoDB/wav/12b02Wd.wav,12,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,d,2.649875,4000.0,16000
+12b03La.wav,Data/EmoDB/wav/12b03La.wav,12,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,a,3.94475,4000.0,16000
+12b03Ta.wav,Data/EmoDB/wav/12b03Ta.wav,12,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,a,5.9963125,4000.0,16000
+12b09Ac.wav,Data/EmoDB/wav/12b09Ac.wav,12,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,c,2.4719375,4000.0,16000
+12b09Td.wav,Data/EmoDB/wav/12b09Td.wav,12,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,d,5.413875,4000.0,16000
+12b09Wc.wav,Data/EmoDB/wav/12b09Wc.wav,12,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,c,2.4381875,4000.0,16000
+12b10Ac.wav,Data/EmoDB/wav/12b10Ac.wav,12,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,c,2.0305,4000.0,16000
+12b10Ld.wav,Data/EmoDB/wav/12b10Ld.wav,12,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,d,3.02,4000.0,16000
+12b10Wa.wav,Data/EmoDB/wav/12b10Wa.wav,12,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.5493125,4000.0,16000
+13a01Ac.wav,Data/EmoDB/wav/13a01Ac.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,c,1.561,4000.0,16000
+13a01Ea.wav,Data/EmoDB/wav/13a01Ea.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,a,1.826875,4000.0,16000
+13a01Ec.wav,Data/EmoDB/wav/13a01Ec.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,c,2.3276875,4000.0,16000
+13a01Fd.wav,Data/EmoDB/wav/13a01Fd.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,d,1.8809375,4000.0,16000
+13a01Lb.wav,Data/EmoDB/wav/13a01Lb.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,b,2.0050625,4000.0,16000
+13a01Nb.wav,Data/EmoDB/wav/13a01Nb.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,b,1.515625,4000.0,16000
+13a01Wb.wav,Data/EmoDB/wav/13a01Wb.wav,13,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,b,2.36225,4000.0,16000
+13a02Ad.wav,Data/EmoDB/wav/13a02Ad.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,d,1.463375,4000.0,16000
+13a02Ec.wav,Data/EmoDB/wav/13a02Ec.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,c,2.13625,4000.0,16000
+13a02Fa.wav,Data/EmoDB/wav/13a02Fa.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,a,2.0746875,4000.0,16000
+13a02Lc.wav,Data/EmoDB/wav/13a02Lc.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,c,1.7841875,4000.0,16000
+13a02Nc.wav,Data/EmoDB/wav/13a02Nc.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,c,1.5583125,4000.0,16000
+13a02Ta.wav,Data/EmoDB/wav/13a02Ta.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,a,1.86375,4000.0,16000
+13a02Wa.wav,Data/EmoDB/wav/13a02Wa.wav,13,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,a,1.669,4000.0,16000
+13a04Ac.wav,Data/EmoDB/wav/13a04Ac.wav,13,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,c,1.531375,4000.0,16000
+13a04Fc.wav,Data/EmoDB/wav/13a04Fc.wav,13,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,c,1.7833125,4000.0,16000
+13a04Lb.wav,Data/EmoDB/wav/13a04Lb.wav,13,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,b,2.2468125,4000.0,16000
+13a04Ta.wav,Data/EmoDB/wav/13a04Ta.wav,13,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,a,2.8525,4000.0,16000
+13a04Wc.wav,Data/EmoDB/wav/13a04Wc.wav,13,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,1.9954375,4000.0,16000
+13a05Aa.wav,Data/EmoDB/wav/13a05Aa.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,a,2.7915,4000.0,16000
+13a05Ea.wav,Data/EmoDB/wav/13a05Ea.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,E,Disgust,a,4.1959375,4000.0,16000
+13a05Lc.wav,Data/EmoDB/wav/13a05Lc.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,c,3.3528125,4000.0,16000
+13a05Nb.wav,Data/EmoDB/wav/13a05Nb.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,b,3.18775,4000.0,16000
+13a05Tc.wav,Data/EmoDB/wav/13a05Tc.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,c,4.451375,4000.0,16000
+13a05Wa.wav,Data/EmoDB/wav/13a05Wa.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,a,2.8845625,4000.0,16000
+13a05Wc.wav,Data/EmoDB/wav/13a05Wc.wav,13,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,c,3.3899375,4000.0,16000
+13a07Fd.wav,Data/EmoDB/wav/13a07Fd.wav,13,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,d,2.0124375,4000.0,16000
+13a07Lb.wav,Data/EmoDB/wav/13a07Lb.wav,13,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,b,2.2641875,4000.0,16000
+13a07Na.wav,Data/EmoDB/wav/13a07Na.wav,13,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,a,1.9116875,4000.0,16000
+13a07Tc.wav,Data/EmoDB/wav/13a07Tc.wav,13,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,c,2.3416875,4000.0,16000
+13a07Wb.wav,Data/EmoDB/wav/13a07Wb.wav,13,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,b,2.257625,4000.0,16000
+13b01Ab.wav,Data/EmoDB/wav/13b01Ab.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,b,2.2233125,4000.0,16000
+13b01Ec.wav,Data/EmoDB/wav/13b01Ec.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,c,3.091875,4000.0,16000
+13b01Fc.wav,Data/EmoDB/wav/13b01Fc.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,c,2.633,4000.0,16000
+13b01Ld.wav,Data/EmoDB/wav/13b01Ld.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,d,2.6738125,4000.0,16000
+13b01Nc.wav,Data/EmoDB/wav/13b01Nc.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,c,2.431,4000.0,16000
+13b01Wa.wav,Data/EmoDB/wav/13b01Wa.wav,13,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,a,2.2521875,4000.0,16000
+13b02Fb.wav,Data/EmoDB/wav/13b02Fb.wav,13,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,b,3.4419375,4000.0,16000
+13b02Lc.wav,Data/EmoDB/wav/13b02Lc.wav,13,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,c,3.804,4000.0,16000
+13b02Nb.wav,Data/EmoDB/wav/13b02Nb.wav,13,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,b,2.78625,4000.0,16000
+13b02Wa.wav,Data/EmoDB/wav/13b02Wa.wav,13,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,a,2.4110625,4000.0,16000
+13b03Ac.wav,Data/EmoDB/wav/13b03Ac.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",A,Fear,c,3.3083125,4000.0,16000
+13b03Ed.wav,Data/EmoDB/wav/13b03Ed.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",E,Disgust,d,4.518125,4000.0,16000
+13b03Fd.wav,Data/EmoDB/wav/13b03Fd.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,d,3.9309375,4000.0,16000
+13b03Lb.wav,Data/EmoDB/wav/13b03Lb.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,b,3.8853125,4000.0,16000
+13b03Na.wav,Data/EmoDB/wav/13b03Na.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,a,3.567,4000.0,16000
+13b03Td.wav,Data/EmoDB/wav/13b03Td.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,d,4.97625,4000.0,16000
+13b03Wc.wav,Data/EmoDB/wav/13b03Wc.wav,13,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,c,3.611875,4000.0,16000
+13b09Ab.wav,Data/EmoDB/wav/13b09Ab.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,b,2.71175,4000.0,16000
+13b09Ec.wav,Data/EmoDB/wav/13b09Ec.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,E,Disgust,c,2.68975,4000.0,16000
+13b09Fb.wav,Data/EmoDB/wav/13b09Fb.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,b,2.8738125,4000.0,16000
+13b09Fc.wav,Data/EmoDB/wav/13b09Fc.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,c,2.96225,4000.0,16000
+13b09La.wav,Data/EmoDB/wav/13b09La.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,a,2.5901875,4000.0,16000
+13b09Na.wav,Data/EmoDB/wav/13b09Na.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,a,2.672875,4000.0,16000
+13b09Wa.wav,Data/EmoDB/wav/13b09Wa.wav,13,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,2.399625,4000.0,16000
+13b10Ec.wav,Data/EmoDB/wav/13b10Ec.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,E,Disgust,c,2.84775,4000.0,16000
+13b10Fa.wav,Data/EmoDB/wav/13b10Fa.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,F,Happiness,a,2.1585625,4000.0,16000
+13b10La.wav,Data/EmoDB/wav/13b10La.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,a,2.3484375,4000.0,16000
+13b10Nc.wav,Data/EmoDB/wav/13b10Nc.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,c,2.3678125,4000.0,16000
+13b10Wa.wav,Data/EmoDB/wav/13b10Wa.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.2005625,4000.0,16000
+13b10Wc.wav,Data/EmoDB/wav/13b10Wc.wav,13,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,c,2.6833125,4000.0,16000
+14a01Aa.wav,Data/EmoDB/wav/14a01Aa.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,a,1.53375,4000.0,16000
+14a01Ac.wav,Data/EmoDB/wav/14a01Ac.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,A,Fear,c,1.5423125,4000.0,16000
+14a01Ea.wav,Data/EmoDB/wav/14a01Ea.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,a,3.1425,4000.0,16000
+14a01Na.wav,Data/EmoDB/wav/14a01Na.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,a,1.6153125,4000.0,16000
+14a01Wa.wav,Data/EmoDB/wav/14a01Wa.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,a,1.6378125,4000.0,16000
+14a01Wc.wav,Data/EmoDB/wav/14a01Wc.wav,14,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,c,1.9724375,4000.0,16000
+14a02Ab.wav,Data/EmoDB/wav/14a02Ab.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,b,1.3695625,4000.0,16000
+14a02Ea.wav,Data/EmoDB/wav/14a02Ea.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,a,2.554875,4000.0,16000
+14a02Fd.wav,Data/EmoDB/wav/14a02Fd.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,F,Happiness,d,1.6816875,4000.0,16000
+14a02La.wav,Data/EmoDB/wav/14a02La.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,a,1.9506875,4000.0,16000
+14a02Nc.wav,Data/EmoDB/wav/14a02Nc.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,c,1.4308125,4000.0,16000
+14a02Tb.wav,Data/EmoDB/wav/14a02Tb.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,b,2.137375,4000.0,16000
+14a02Wa.wav,Data/EmoDB/wav/14a02Wa.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,a,2.01275,4000.0,16000
+14a02Wc.wav,Data/EmoDB/wav/14a02Wc.wav,14,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,c,2.092625,4000.0,16000
+14a04Aa.wav,Data/EmoDB/wav/14a04Aa.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,a,1.477,4000.0,16000
+14a04Ed.wav,Data/EmoDB/wav/14a04Ed.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,E,Disgust,d,2.9161875,4000.0,16000
+14a04Lb.wav,Data/EmoDB/wav/14a04Lb.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,b,1.9429375,4000.0,16000
+14a04Tb.wav,Data/EmoDB/wav/14a04Tb.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,b,2.2255625,4000.0,16000
+14a04Tc.wav,Data/EmoDB/wav/14a04Tc.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,c,2.93475,4000.0,16000
+14a04Wb.wav,Data/EmoDB/wav/14a04Wb.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,b,1.7368125,4000.0,16000
+14a04Wc.wav,Data/EmoDB/wav/14a04Wc.wav,14,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,2.5100625,4000.0,16000
+14a05Aa.wav,Data/EmoDB/wav/14a05Aa.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,a,2.587625,4000.0,16000
+14a05Ac.wav,Data/EmoDB/wav/14a05Ac.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,c,4.101375,4000.0,16000
+14a05Fa.wav,Data/EmoDB/wav/14a05Fa.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,a,3.2461875,4000.0,16000
+14a05Fb.wav,Data/EmoDB/wav/14a05Fb.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,b,3.1286875,4000.0,16000
+14a05Lb.wav,Data/EmoDB/wav/14a05Lb.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,b,3.51925,4000.0,16000
+14a05Na.wav,Data/EmoDB/wav/14a05Na.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,a,3.0633125,4000.0,16000
+14a05Ta.wav,Data/EmoDB/wav/14a05Ta.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,a,3.7375,4000.0,16000
+14a05Tc.wav,Data/EmoDB/wav/14a05Tc.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,c,5.028875,4000.0,16000
+14a05Wa.wav,Data/EmoDB/wav/14a05Wa.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,a,4.0068125,4000.0,16000
+14a05Wb.wav,Data/EmoDB/wav/14a05Wb.wav,14,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,3.0540625,4000.0,16000
+14a07Aa.wav,Data/EmoDB/wav/14a07Aa.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,a,2.0596875,4000.0,16000
+14a07Eb.wav,Data/EmoDB/wav/14a07Eb.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",E,Disgust,b,3.436625,4000.0,16000
+14a07Fd.wav,Data/EmoDB/wav/14a07Fd.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,d,2.0806875,4000.0,16000
+14a07Lc.wav,Data/EmoDB/wav/14a07Lc.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,c,2.99475,4000.0,16000
+14a07Ld.wav,Data/EmoDB/wav/14a07Ld.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,d,2.292125,4000.0,16000
+14a07Na.wav,Data/EmoDB/wav/14a07Na.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,a,2.0960625,4000.0,16000
+14a07Tc.wav,Data/EmoDB/wav/14a07Tc.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,c,3.2635,4000.0,16000
+14a07Wc.wav,Data/EmoDB/wav/14a07Wc.wav,14,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,c,2.0635,4000.0,16000
+14b01Ac.wav,Data/EmoDB/wav/14b01Ac.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,c,2.344375,4000.0,16000
+14b01Eb.wav,Data/EmoDB/wav/14b01Eb.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,b,3.29175,4000.0,16000
+14b01Fa.wav,Data/EmoDB/wav/14b01Fa.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,a,2.56025,4000.0,16000
+14b01Fc.wav,Data/EmoDB/wav/14b01Fc.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,c,2.540875,4000.0,16000
+14b01Na.wav,Data/EmoDB/wav/14b01Na.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,a,2.572625,4000.0,16000
+14b01Wc.wav,Data/EmoDB/wav/14b01Wc.wav,14,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,c,2.9583125,4000.0,16000
+14b02Aa.wav,Data/EmoDB/wav/14b02Aa.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,a,2.84025,4000.0,16000
+14b02Fb.wav,Data/EmoDB/wav/14b02Fb.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,b,2.8371875,4000.0,16000
+14b02Na.wav,Data/EmoDB/wav/14b02Na.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,a,2.8994375,4000.0,16000
+14b02Tc.wav,Data/EmoDB/wav/14b02Tc.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,c,6.2154375,4000.0,16000
+14b02Wb.wav,Data/EmoDB/wav/14b02Wb.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,2.748125,4000.0,16000
+14b02Wd.wav,Data/EmoDB/wav/14b02Wd.wav,14,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,d,2.2923125,4000.0,16000
+14b03Ad.wav,Data/EmoDB/wav/14b03Ad.wav,14,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",A,Fear,d,3.5028125,4000.0,16000
+14b03Ed.wav,Data/EmoDB/wav/14b03Ed.wav,14,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",E,Disgust,d,5.0500625,4000.0,16000
+14b03Lb.wav,Data/EmoDB/wav/14b03Lb.wav,14,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,b,3.580125,4000.0,16000
+14b03Ta.wav,Data/EmoDB/wav/14b03Ta.wav,14,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,a,5.4973125,4000.0,16000
+14b03Wb.wav,Data/EmoDB/wav/14b03Wb.wav,14,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,3.8861875,4000.0,16000
+14b09Ac.wav,Data/EmoDB/wav/14b09Ac.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,c,2.2876875,4000.0,16000
+14b09Ea.wav,Data/EmoDB/wav/14b09Ea.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,E,Disgust,a,4.243625,4000.0,16000
+14b09Fc.wav,Data/EmoDB/wav/14b09Fc.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,c,2.5295,4000.0,16000
+14b09Lb.wav,Data/EmoDB/wav/14b09Lb.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,b,3.0503125,4000.0,16000
+14b09Td.wav,Data/EmoDB/wav/14b09Td.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,d,3.7651875,4000.0,16000
+14b09Wa.wav,Data/EmoDB/wav/14b09Wa.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,a,3.5453125,4000.0,16000
+14b09Wc.wav,Data/EmoDB/wav/14b09Wc.wav,14,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,c,2.7706875,4000.0,16000
+14b10Ad.wav,Data/EmoDB/wav/14b10Ad.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,d,1.9655625,4000.0,16000
+14b10Eb.wav,Data/EmoDB/wav/14b10Eb.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,E,Disgust,b,3.6788125,4000.0,16000
+14b10Lb.wav,Data/EmoDB/wav/14b10Lb.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,b,2.1375,4000.0,16000
+14b10Nb.wav,Data/EmoDB/wav/14b10Nb.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,b,2.0579375,4000.0,16000
+14b10Tc.wav,Data/EmoDB/wav/14b10Tc.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,T,Sadness,c,3.4114375,4000.0,16000
+14b10Wc.wav,Data/EmoDB/wav/14b10Wc.wav,14,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,c,2.6553125,4000.0,16000
+15a01Ea.wav,Data/EmoDB/wav/15a01Ea.wav,15,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,a,2.5521875,4000.0,16000
+15a01Fb.wav,Data/EmoDB/wav/15a01Fb.wav,15,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,b,1.626625,4000.0,16000
+15a01La.wav,Data/EmoDB/wav/15a01La.wav,15,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,a,1.562625,4000.0,16000
+15a01Nb.wav,Data/EmoDB/wav/15a01Nb.wav,15,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,b,1.62825,4000.0,16000
+15a01Wa.wav,Data/EmoDB/wav/15a01Wa.wav,15,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,a,1.8313125,4000.0,16000
+15a02Ac.wav,Data/EmoDB/wav/15a02Ac.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,A,Fear,c,1.89275,4000.0,16000
+15a02Ea.wav,Data/EmoDB/wav/15a02Ea.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,a,2.4498125,4000.0,16000
+15a02La.wav,Data/EmoDB/wav/15a02La.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,a,1.696875,4000.0,16000
+15a02Na.wav,Data/EmoDB/wav/15a02Na.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,a,1.613875,4000.0,16000
+15a02Ta.wav,Data/EmoDB/wav/15a02Ta.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,a,2.2666875,4000.0,16000
+15a02Wb.wav,Data/EmoDB/wav/15a02Wb.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,b,1.8071875,4000.0,16000
+15a02Wd.wav,Data/EmoDB/wav/15a02Wd.wav,15,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,d,1.8206875,4000.0,16000
+15a04Ab.wav,Data/EmoDB/wav/15a04Ab.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,b,1.8296875,4000.0,16000
+15a04Ac.wav,Data/EmoDB/wav/15a04Ac.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,c,1.8441875,4000.0,16000
+15a04Fd.wav,Data/EmoDB/wav/15a04Fd.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,d,1.7911875,4000.0,16000
+15a04Nc.wav,Data/EmoDB/wav/15a04Nc.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,c,1.698125,4000.0,16000
+15a04Wa.wav,Data/EmoDB/wav/15a04Wa.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,a,1.945375,4000.0,16000
+15a04Wb.wav,Data/EmoDB/wav/15a04Wb.wav,15,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,b,1.8111875,4000.0,16000
+15a05Eb.wav,Data/EmoDB/wav/15a05Eb.wav,15,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,E,Disgust,b,3.9935625,4000.0,16000
+15a05Fb.wav,Data/EmoDB/wav/15a05Fb.wav,15,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,b,2.6961875,4000.0,16000
+15a05Lb.wav,Data/EmoDB/wav/15a05Lb.wav,15,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,b,3.3200625,4000.0,16000
+15a05Na.wav,Data/EmoDB/wav/15a05Na.wav,15,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,N,Neutral,a,3.1209375,4000.0,16000
+15a05Wa.wav,Data/EmoDB/wav/15a05Wa.wav,15,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,a,3.0985,4000.0,16000
+15a07Ac.wav,Data/EmoDB/wav/15a07Ac.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",A,Fear,c,1.810875,4000.0,16000
+15a07Eb.wav,Data/EmoDB/wav/15a07Eb.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",E,Disgust,b,2.397125,4000.0,16000
+15a07Fa.wav,Data/EmoDB/wav/15a07Fa.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,a,1.9641875,4000.0,16000
+15a07Fb.wav,Data/EmoDB/wav/15a07Fb.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,b,1.93525,4000.0,16000
+15a07Ld.wav,Data/EmoDB/wav/15a07Ld.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,d,1.8018125,4000.0,16000
+15a07Nc.wav,Data/EmoDB/wav/15a07Nc.wav,15,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,c,1.8811875,4000.0,16000
+15b01Ec.wav,Data/EmoDB/wav/15b01Ec.wav,15,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,c,2.9709375,4000.0,16000
+15b01Lb.wav,Data/EmoDB/wav/15b01Lb.wav,15,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,b,2.326625,4000.0,16000
+15b01Na.wav,Data/EmoDB/wav/15b01Na.wav,15,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,N,Neutral,a,2.35725,4000.0,16000
+15b01Wc.wav,Data/EmoDB/wav/15b01Wc.wav,15,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,c,2.631375,4000.0,16000
+15b02Aa.wav,Data/EmoDB/wav/15b02Aa.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,a,2.9655625,4000.0,16000
+15b02Lb.wav,Data/EmoDB/wav/15b02Lb.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,b,2.955625,4000.0,16000
+15b02Nd.wav,Data/EmoDB/wav/15b02Nd.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,N,Neutral,d,2.79025,4000.0,16000
+15b02Tc.wav,Data/EmoDB/wav/15b02Tc.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,T,Sadness,c,3.892,4000.0,16000
+15b02Wa.wav,Data/EmoDB/wav/15b02Wa.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,a,2.7650625,4000.0,16000
+15b02Wc.wav,Data/EmoDB/wav/15b02Wc.wav,15,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,c,2.6233125,4000.0,16000
+15b03Aa.wav,Data/EmoDB/wav/15b03Aa.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",A,Fear,a,2.6274375,4000.0,16000
+15b03Lc.wav,Data/EmoDB/wav/15b03Lc.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,c,3.666375,4000.0,16000
+15b03Nb.wav,Data/EmoDB/wav/15b03Nb.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.2004375,4000.0,16000
+15b03Tc.wav,Data/EmoDB/wav/15b03Tc.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,c,5.3410625,4000.0,16000
+15b03Wa.wav,Data/EmoDB/wav/15b03Wa.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,a,3.3629375,4000.0,16000
+15b03Wb.wav,Data/EmoDB/wav/15b03Wb.wav,15,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,3.021625,4000.0,16000
+15b09Ac.wav,Data/EmoDB/wav/15b09Ac.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,c,2.41875,4000.0,16000
+15b09Fa.wav,Data/EmoDB/wav/15b09Fa.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,a,2.4509375,4000.0,16000
+15b09La.wav,Data/EmoDB/wav/15b09La.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,a,3.21775,4000.0,16000
+15b09Nb.wav,Data/EmoDB/wav/15b09Nb.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,N,Neutral,b,2.452375,4000.0,16000
+15b09Ta.wav,Data/EmoDB/wav/15b09Ta.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,T,Sadness,a,4.01575,4000.0,16000
+15b09Wb.wav,Data/EmoDB/wav/15b09Wb.wav,15,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,b,2.655875,4000.0,16000
+15b10Ac.wav,Data/EmoDB/wav/15b10Ac.wav,15,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,c,2.0220625,4000.0,16000
+15b10Lc.wav,Data/EmoDB/wav/15b10Lc.wav,15,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,c,2.467625,4000.0,16000
+15b10Nb.wav,Data/EmoDB/wav/15b10Nb.wav,15,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,b,2.21325,4000.0,16000
+15b10Nc.wav,Data/EmoDB/wav/15b10Nc.wav,15,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,N,Neutral,c,2.20275,4000.0,16000
+15b10Wa.wav,Data/EmoDB/wav/15b10Wa.wav,15,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.63375,4000.0,16000
+16a01Ec.wav,Data/EmoDB/wav/16a01Ec.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,E,Disgust,c,2.4304375,4000.0,16000
+16a01Fc.wav,Data/EmoDB/wav/16a01Fc.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,F,Happiness,c,2.096375,4000.0,16000
+16a01Lb.wav,Data/EmoDB/wav/16a01Lb.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,L,Boredom,b,2.0335625,4000.0,16000
+16a01Nc.wav,Data/EmoDB/wav/16a01Nc.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,N,Neutral,c,1.7719375,4000.0,16000
+16a01Tb.wav,Data/EmoDB/wav/16a01Tb.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,T,Sadness,b,2.6075625,4000.0,16000
+16a01Wb.wav,Data/EmoDB/wav/16a01Wb.wav,16,a01,Der Lappen liegt auf dem Eisschrank.,The cloth is lying on the icebox.,W,Anger,b,2.199875,4000.0,16000
+16a02Ea.wav,Data/EmoDB/wav/16a02Ea.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,a,2.9485,4000.0,16000
+16a02Ec.wav,Data/EmoDB/wav/16a02Ec.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,E,Disgust,c,2.4875,4000.0,16000
+16a02Lb.wav,Data/EmoDB/wav/16a02Lb.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,L,Boredom,b,2.081125,4000.0,16000
+16a02Nb.wav,Data/EmoDB/wav/16a02Nb.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,N,Neutral,b,1.6604375,4000.0,16000
+16a02Tc.wav,Data/EmoDB/wav/16a02Tc.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,T,Sadness,c,2.1919375,4000.0,16000
+16a02Wb.wav,Data/EmoDB/wav/16a02Wb.wav,16,a02,Das Messer ist in der Schublade.,The knife is in the drawer.,W,Anger,b,1.7700625,4000.0,16000
+16a04Ab.wav,Data/EmoDB/wav/16a04Ab.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,A,Fear,b,1.48,4000.0,16000
+16a04Ea.wav,Data/EmoDB/wav/16a04Ea.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,E,Disgust,a,2.65,4000.0,16000
+16a04Fa.wav,Data/EmoDB/wav/16a04Fa.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,F,Happiness,a,2.043875,4000.0,16000
+16a04La.wav,Data/EmoDB/wav/16a04La.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,a,2.0289375,4000.0,16000
+16a04Lc.wav,Data/EmoDB/wav/16a04Lc.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,L,Boredom,c,2.65375,4000.0,16000
+16a04Nc.wav,Data/EmoDB/wav/16a04Nc.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,N,Neutral,c,1.8259375,4000.0,16000
+16a04Tc.wav,Data/EmoDB/wav/16a04Tc.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,T,Sadness,c,3.1656875,4000.0,16000
+16a04Wb.wav,Data/EmoDB/wav/16a04Wb.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,b,2.5619375,4000.0,16000
+16a04Wc.wav,Data/EmoDB/wav/16a04Wc.wav,16,a04,Heute abend könnte ich es ihm sagen.,I might tell him tonight.,W,Anger,c,1.9440625,4000.0,16000
+16a05Ab.wav,Data/EmoDB/wav/16a05Ab.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,A,Fear,b,2.9013125,4000.0,16000
+16a05Ea.wav,Data/EmoDB/wav/16a05Ea.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,E,Disgust,a,5.48875,4000.0,16000
+16a05Fc.wav,Data/EmoDB/wav/16a05Fc.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,F,Happiness,c,3.612375,4000.0,16000
+16a05La.wav,Data/EmoDB/wav/16a05La.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,L,Boredom,a,4.0509375,4000.0,16000
+16a05Tb.wav,Data/EmoDB/wav/16a05Tb.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,T,Sadness,b,6.788,4000.0,16000
+16a05Wb.wav,Data/EmoDB/wav/16a05Wb.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,b,3.7410625,4000.0,16000
+16a05Wc.wav,Data/EmoDB/wav/16a05Wc.wav,16,a05,Das schwarze Stück Papier befindet sich da oben neben dem Holzstück.,The black piece of paper is up there next to the piece of wood.,W,Anger,c,3.80075,4000.0,16000
+16a07Ea.wav,Data/EmoDB/wav/16a07Ea.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",E,Disgust,a,2.9964375,4000.0,16000
+16a07Fa.wav,Data/EmoDB/wav/16a07Fa.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,a,2.37125,4000.0,16000
+16a07Fb.wav,Data/EmoDB/wav/16a07Fb.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",F,Happiness,b,2.4268125,4000.0,16000
+16a07La.wav,Data/EmoDB/wav/16a07La.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,a,2.0746875,4000.0,16000
+16a07Lb.wav,Data/EmoDB/wav/16a07Lb.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",L,Boredom,b,2.1673125,4000.0,16000
+16a07Nb.wav,Data/EmoDB/wav/16a07Nb.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",N,Neutral,b,2.0070625,4000.0,16000
+16a07Td.wav,Data/EmoDB/wav/16a07Td.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",T,Sadness,d,3.7295,4000.0,16000
+16a07Wa.wav,Data/EmoDB/wav/16a07Wa.wav,16,a07,In sieben Stunden wird es soweit sein.,"In seven hours, it will be time.",W,Anger,a,2.3818125,4000.0,16000
+16b01Aa.wav,Data/EmoDB/wav/16b01Aa.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,A,Fear,a,2.0813125,4000.0,16000
+16b01Eb.wav,Data/EmoDB/wav/16b01Eb.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,E,Disgust,b,3.421625,4000.0,16000
+16b01Fa.wav,Data/EmoDB/wav/16b01Fa.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,F,Happiness,a,2.64975,4000.0,16000
+16b01La.wav,Data/EmoDB/wav/16b01La.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,a,2.9439375,4000.0,16000
+16b01Lc.wav,Data/EmoDB/wav/16b01Lc.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,L,Boredom,c,2.4656875,4000.0,16000
+16b01Tb.wav,Data/EmoDB/wav/16b01Tb.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,T,Sadness,b,4.37775,4000.0,16000
+16b01Wa.wav,Data/EmoDB/wav/16b01Wa.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,a,2.609875,4000.0,16000
+16b01Wb.wav,Data/EmoDB/wav/16b01Wb.wav,16,b01,"Was sind denn das für Tüten, die da unter dem Tisch stehen?",What kind of bags are those standing under the table?,W,Anger,b,2.6616875,4000.0,16000
+16b02Aa.wav,Data/EmoDB/wav/16b02Aa.wav,16,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,A,Fear,a,3.0035625,4000.0,16000
+16b02Eb.wav,Data/EmoDB/wav/16b02Eb.wav,16,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,E,Disgust,b,4.1885625,4000.0,16000
+16b02Fd.wav,Data/EmoDB/wav/16b02Fd.wav,16,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,F,Happiness,d,3.5335625,4000.0,16000
+16b02Lb.wav,Data/EmoDB/wav/16b02Lb.wav,16,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,L,Boredom,b,3.39875,4000.0,16000
+16b02Wb.wav,Data/EmoDB/wav/16b02Wb.wav,16,b02,Sie haben es gerade hochgetragen und jetzt gehen sie wieder runter.,They just carried it up and now they’re going back down.,W,Anger,b,3.184375,4000.0,16000
+16b03Ad.wav,Data/EmoDB/wav/16b03Ad.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",A,Fear,d,3.2161875,4000.0,16000
+16b03Ea.wav,Data/EmoDB/wav/16b03Ea.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",E,Disgust,a,5.9638125,4000.0,16000
+16b03Fa.wav,Data/EmoDB/wav/16b03Fa.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,a,3.8655,4000.0,16000
+16b03Fd.wav,Data/EmoDB/wav/16b03Fd.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",F,Happiness,d,3.6574375,4000.0,16000
+16b03La.wav,Data/EmoDB/wav/16b03La.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",L,Boredom,a,4.035625,4000.0,16000
+16b03Nb.wav,Data/EmoDB/wav/16b03Nb.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",N,Neutral,b,3.8991875,4000.0,16000
+16b03Ta.wav,Data/EmoDB/wav/16b03Ta.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",T,Sadness,a,5.975625,4000.0,16000
+16b03Wb.wav,Data/EmoDB/wav/16b03Wb.wav,16,b03,An den Wochenenden bin ich jetzt immer nach Hause gefahren und habe Agnes besucht.,"On weekends, I always went home and visited Agnes.",W,Anger,b,3.9245625,4000.0,16000
+16b09Ab.wav,Data/EmoDB/wav/16b09Ab.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,A,Fear,b,2.0515625,4000.0,16000
+16b09Eb.wav,Data/EmoDB/wav/16b09Eb.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,E,Disgust,b,5.0256875,4000.0,16000
+16b09Fb.wav,Data/EmoDB/wav/16b09Fb.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,F,Happiness,b,3.5018125,4000.0,16000
+16b09La.wav,Data/EmoDB/wav/16b09La.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,a,3.0661875,4000.0,16000
+16b09Lb.wav,Data/EmoDB/wav/16b09Lb.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,L,Boredom,b,3.1859375,4000.0,16000
+16b09Wb.wav,Data/EmoDB/wav/16b09Wb.wav,16,b09,Ich will das eben wegbringen und dann mit Karl was trinken gehen.,I just want to drop this off and then go have a drink with Karl.,W,Anger,b,3.69,4000.0,16000
+16b10Aa.wav,Data/EmoDB/wav/16b10Aa.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,A,Fear,a,2.5826875,4000.0,16000
+16b10Eb.wav,Data/EmoDB/wav/16b10Eb.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,E,Disgust,b,3.2245,4000.0,16000
+16b10Fb.wav,Data/EmoDB/wav/16b10Fb.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,F,Happiness,b,2.5835,4000.0,16000
+16b10Lb.wav,Data/EmoDB/wav/16b10Lb.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,L,Boredom,b,3.4426875,4000.0,16000
+16b10Tb.wav,Data/EmoDB/wav/16b10Tb.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,T,Sadness,b,3.500625,4000.0,16000
+16b10Td.wav,Data/EmoDB/wav/16b10Td.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,T,Sadness,d,3.9341875,4000.0,16000
+16b10Wa.wav,Data/EmoDB/wav/16b10Wa.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,a,2.414125,4000.0,16000
+16b10Wb.wav,Data/EmoDB/wav/16b10Wb.wav,16,b10,"Die wird auf dem Platz sein, wo wir sie immer hinlegen.",She'll be in the spot where we always put her.,W,Anger,b,2.5225,4000.0,16000
