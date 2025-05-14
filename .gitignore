@@ -1,8 +1,8 @@
 venv/
 checkpoint/
 checkpoints/
-models/
 resampled_audio/
 Data/padded_audio/
 Data/EmoDB/
 Data/RAVDESS/
+models/

@@ -7,4 +7,5 @@ matplotlib
 seaborn 
 # torch
 # torchvision
-tqdm
+transformers
+huggingface_hub[hf_xet]
